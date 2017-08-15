@@ -4,7 +4,7 @@ QuestionAmble is a React Native mobile application that allows users to create a
 
 This is the back end component of our project. Although we had one week to design and program the initial version that was demoed, there may be updates from time to time. This is not a commercial application.
 
-Information regarding the QuestionAmble Front End, including a live demo, can be found [here](https://github.com/nyc-rock-doves-2017/QuestionAmbleFE).
+Information regarding the QuestionAmble Front End, including a live demo, can be found [here](https://github.com/kqm001/QuestionAmbleFE).
 
 ### Table of Contents
 * [Team Members](###team-members)
