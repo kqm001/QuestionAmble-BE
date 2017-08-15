@@ -7,16 +7,19 @@ This is the back end component of our project. Although we had one week to desig
 Information regarding the QuestionAmble Front End, including a live demo, can be found [here](https://github.com/kqm001/QuestionAmbleFE).
 
 ### Table of Contents
-* [Team Members](###team-members)
-* [Structure](###structure)
-* [Resources](###resources)
+* [Team Members](#team-members)
+* [Structure](#structure)
+* [Resources](#resources)
 
+
+<div id='team-members'/>
 ### Team Members
 * [Wan Tsui](https://github.com/wantsui)
 * [Kelsey Malone](https://github.com/kqm001)
 * [Kevin Cross](https://github.com/Kevinhcross96)
 * [Rahat Alam](https://github.com/rahat64)
 
+<div id='structure'/>
 ### Structure
 The backend of QuestionAmble is built as an Ruby on Rails API calling on data stored in a PostgreSQL database hosted on Heroku.  Our API returns data in JSON format.
 
@@ -104,6 +107,7 @@ On success, the HTTP status code in the response header is 200 OK and the respon
 | firstQuestion | question object | A question object for the first question in the quest being played in that round. |
 | player | user object | A user object for the user playing the quest in that round. |
 
+<div id='resources'/>
 ### Resources
 Gems utilized in this project include:
 * [JWT](https://github.com/jwt/ruby-jwt/)
