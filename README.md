@@ -12,7 +12,6 @@ Information regarding the QuestionAmble Front End, including a live demo, can be
 * [Resources](#resources)
 
 
-<div id='team-members'/>
 ### Team Members
 * [Wan Tsui](https://github.com/wantsui)
 * [Kelsey Malone](https://github.com/kqm001)
